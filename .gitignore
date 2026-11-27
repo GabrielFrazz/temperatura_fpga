@@ -1,0 +1,20 @@
+
+# Quartus - arquivos gerados durante a compilação
+db/
+incremental_db/
+output_files/
+simulation/
+.qsys_edit/
+
+# Arquivos temporários
+*.flock
+*.qws
+*.bak
+*.tmp
+*.rpt
+*.summary
+*.smsg
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
